@@ -1,0 +1,56 @@
+_repo: Tales-and-Novels-of-J.-de-La-Fontaine---Complete_5300
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5300/5300-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - De La Fontaine, Jean
+    - Fontaine, Jean de La
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- Translations into English'
+- !lcsh 'Fables, French -- Translations into English'
+- GITenberg
+tableOfContents: La Fontaine's life -- Preface -- Joconde -- The Cudgelled and Contented
+  Cuckold -- The Husband Confessor -- The Cobbler -- The Peasant and His Angry Lord
+  -- The Muleteer -- The Servant Girl Justified -- The Three Gossips' Wager -- The
+  Old Man's Calendar -- The Avaricious Wife and Tricking Gallant -- The Jealous Husband
+  -- The Gascon Punished -- The Princess Betrothed to the King of Garba -- The Magick
+  Cup -- The Falcon -- The Little Dog -- The Eel Pie -- The Magnificent -- The Ephesian
+  Matron -- Belphegor -- The Little Bell -- The Glutton -- The Two Friends -- The
+  Country Justice Alice Sick -- The Kiss Returned -- Sister Jane -- An Imitation of
+  Anacreon -- Another Imitation of Anacreon -- Preface To The Second Book -- Friar
+  Philip's Geese -- Richard Minutolo -- The Monks of Catalonia -- The Cradle -- St.
+  Julian's Prayer -- The Countryman Who Sought His Calf -- Hans Carvel's Ring -- The
+  Hermit -- The Convent -- Gardener of Lamporechio -- The Mandrake -- The Rhemese
+  -- The Amorous Courtesan -- Nicaise -- The Progress of Wit -- The Sick Abbess --
+  The Truckers -- The Case of Conscience -- The Devil of Pope-fig Island -- Feronde
+  -- The Psalter -- King Candaules and the Doctor of Laws -- The Devil in Hell --
+  Neighbour Peter's Mare -- The Spectacles -- The Bucking Tub -- The Impossible Thing
+  -- The Picture -- The Pack-Saddle -- The Ear-maker, and the Mould-mender -- The
+  River Scamander -- The Confidant Without Knowing It, or the Stratagem -- The Clyster
+  -- The Indiscreet Confession -- The Contract -- The Quid Pro Quo, or the Mistakes
+  -- The Dress-maker -- The Gascon -- The Pitcher -- To Promise is One Thing, to Keep
+  It, Another -- The Nightingale -- Epitaph of La Fontaine.
+title: Tales and Novels of J. de La Fontaine — Complete
+url: http://www.gutenberg.org/ebooks/5300
